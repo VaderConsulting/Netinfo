@@ -1,6 +1,6 @@
 # Netinfo
 
-VB6 working copy of `Netinfo` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: ConMan.
+VB6 ConMan network info utility (`Project1.vbp` / Name ConMan) that reports whether LAN/RAS/AOL/proxy/modem paths are alive via `IsNetworkAlive` (Sensapi) and lists IP adapter details (description, MTU, speed, MAC, octets/packets) from the interface table. Open `Project1.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
